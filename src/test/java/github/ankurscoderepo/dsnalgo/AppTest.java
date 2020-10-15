@@ -1,4 +1,4 @@
-package github.ankurscoderepo.dsalgo.dsnalgo;
+package github.ankurscoderepo.dsnalgo;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;

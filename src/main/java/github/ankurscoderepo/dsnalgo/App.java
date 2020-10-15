@@ -1,4 +1,4 @@
-package github.ankurscoderepo.dsalgo.dsnalgo;
+package github.ankurscoderepo.dsnalgo;
 
 public class App {
 	
